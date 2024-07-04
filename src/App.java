@@ -11,6 +11,10 @@ public class App {
 
         //입력값을 한번에 저장(3+2)
         String input = scanner.nextLine();
+
+        //입력값이 3개인지 확인
+
+        //3개가 아니면 에러
         
         //입력값을 1개씩 따로 저장
         char num1char = input.charAt(0);
