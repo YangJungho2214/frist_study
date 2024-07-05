@@ -23,6 +23,8 @@ public class App {
         
         //입력값을 1개씩 따로 저장
         //이렇게 하면 두자리 숫자는 불가능 차후 수정 할 것
+        //1.연산자 찾기
+        //2.연산자의 앞 뒷의 숫자 찾기
         char num1char = input.charAt(0);
         char plus = input.charAt(1);
         char num2char = input.charAt(2);
